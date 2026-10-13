@@ -1,4 +1,4 @@
-//ну тут поидее должен быть код нейроосети
+#Code AI_Example
 
 import torch
 
